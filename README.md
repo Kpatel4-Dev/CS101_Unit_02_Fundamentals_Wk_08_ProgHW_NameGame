@@ -8,7 +8,7 @@ This unit includes a mix of Snap! and Python activities to build your programmin
 - [ ] Complete any Snap Labs
       
 - [ ] 1 Python Programming Homework assignments
-     ##### 📌 Programming HW01 Name Game Instructions: [Prog HW 1: Name Game](Unit02_Fundamentals/ProgrammingHW01/HW01_Instruction_README.md)
+     ##### 📌 Programming HW01 Name Game Instructions: [Prog HW: Name Game](ProgHW/PHW_NameGame_README.md)
 ---
 
 ### 📂 Where to Submit
